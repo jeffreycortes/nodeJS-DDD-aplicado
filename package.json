@@ -1,0 +1,33 @@
+{
+  "name": "api-tin-v1-mockup",
+  "version": "1.0.0",
+  "description": "Proyecto con el prototipo de implementación de contratos y firmas de los microservicios del proyecto de TIN.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "SET SERVER_CONF=prod & node src/server.js",
+    "devstart": "SET SERVER_CONF=dev & nodemon src/server.js",
+    "start-env-dev": "SET DEBUG=api-tin-v1-mock:*& npm run devstart",
+    "generate-apidoc": "apidoc -i src/ -o apidoc/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ing. Jeffrey Cortés",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
+    "httpdispatcher": "^2.1.2"
+  },
+  "apidoc": {
+    "title": "Documentación de API TIN",
+    "url": "http://localhost:8080/api/v1",
+    "sampleUrl": "http://localhost:8080/api/v1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "nodemon": "^2.0.3"
+  }
+}
