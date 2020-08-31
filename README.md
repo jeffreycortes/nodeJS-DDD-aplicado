@@ -1,5 +1,5 @@
 # Api-Tin-V1-Mock - 20200415
-Este proyecto es una mockup de los servicios y contratos establecidos para el proyecto de transferencias inmediatas (TIN) de Banco Falabella Colombia.
+Este proyecto es una mockup de los servicios y contratos establecidos para el proyecto de transferencias inmediatas de Banco digital.
 
 ## Instalación de dependencias
 Para instalar las dependencias del proyecto, ejecute el comando: `npm install`. Este comando debe crear la carpeta **node_modules**.
