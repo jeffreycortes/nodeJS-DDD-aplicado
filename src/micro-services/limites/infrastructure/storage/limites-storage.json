@@ -1,0 +1,6 @@
+{
+  "limites": {
+    "montoMaximo": 250000,
+    "cantidadMaximaTrx": 5
+  }
+}

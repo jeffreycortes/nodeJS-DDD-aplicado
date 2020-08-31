@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "PORT": 8082,
+    "HOST": "localhost"
+  },
+  "qa": {
+    "PORT": 8083,
+    "HOST": "localhost"
+  },
+  "prod":{
+    "PORT": 8082,
+    "HOST": "localhost"
+  },
+  "def": "dev"
+}

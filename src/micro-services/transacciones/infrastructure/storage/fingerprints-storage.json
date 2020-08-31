@@ -1,0 +1,1030 @@
+{
+  "fingerprints": [
+    {
+      "hashId": "26fff5af6441f8e15a71e8d62c361714484b1b308c99e8eb68ca85e2a7e0dc58",
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": "26fff5af6441f8e15a71e8d62c361714484b1b308c99e8eb68ca85e2a7e0dc58"
+        },
+        "Summary": {
+          "kernel": "17D47\u0000",
+          "Language": "en",
+          "Geolocation": "true",
+          "Appversion": "1.0",
+          "DeviceOsVersion": "11.2",
+          "fingerprint": "false",
+          "DeviceBrand": "Apple Inc.",
+          "DeviceOS": "iOS",
+          "AppName": "FPDios_Test_ObjC",
+          "DeviceModel": "nil"
+        },
+        "Geolocation": {
+          "Region": "CLCircularRegion (identifier: '<+51.50997999, -0.13370000> radius 141.61', center:<+51.50997999, -0.13370000>, radius: 141.61m)",
+          "TimeZone": "",
+          "Latitud": "51.509980",
+          "PostalCode": "WIJ",
+          "Longitud": "-0.1373700",
+          "Country": "Colombia",
+          "Continente": "SA",
+          "ISP": "",
+          "City": "Bogota"
+        },
+        "Device": {
+          "IMEI": "",
+          "IP": "",
+          "Screen_Resolution": "",
+          "Client_Timestamp": "",
+          "OperativeSystem": "",
+          "AppAction": "",
+          "DeviceID": ""
+        }
+      }
+    },
+    {
+      "hashId": "2aaa222231230998",
+      "celular": 318467542,
+      "fingerprint": {
+        "FPD": {
+          "ID": "2aaa222231230998"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        },
+        "celular": 318467542
+      }
+    },
+    {
+      "hashId": "2vccaa222231230998",
+      "celular": 318467542,
+      "fingerprint": {
+        "FPD": {
+          "ID": "2vccaa222231230998"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "fpt1234567",
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": "fpt1234567"
+        },
+        "Summary": {
+          "kernel": "17D47\u0000",
+          "Language": "en",
+          "Geolocation": "true",
+          "Appversion": "1.0",
+          "DeviceOsVersion": "11.2",
+          "fingerprint": "false",
+          "DeviceBrand": "Apple Inc.",
+          "DeviceOS": "iOS",
+          "AppName": "FPDios_Test_ObjC",
+          "DeviceModel": "nil"
+        },
+        "Geolocation": {
+          "Region": "CLCircularRegion (identifier: '<+51.50997999, -0.13370000> radius 141.61', center:<+51.50997999, -0.13370000>, radius: 141.61m)",
+          "TimeZone": null,
+          "Latitud": "51.509980",
+          "PostalCode": "WIJ",
+          "Longitud": "-0.1373700",
+          "Country": "Colombia",
+          "Continente": "SA",
+          "ISP": null,
+          "City": "Bogota"
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "fpt1234567",
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": "fpt1234567"
+        },
+        "Summary": {
+          "kernel": "17D47\u0000",
+          "Language": "en",
+          "Geolocation": "true",
+          "Appversion": "1.0",
+          "DeviceOsVersion": "11.2",
+          "fingerprint": "false",
+          "DeviceBrand": "Apple Inc.",
+          "DeviceOS": "iOS",
+          "AppName": "FPDios_Test_ObjC",
+          "DeviceModel": "nil"
+        },
+        "Geolocation": {
+          "Region": "CLCircularRegion (identifier: '<+51.50997999, -0.13370000> radius 141.61', center:<+51.50997999, -0.13370000>, radius: 141.61m)",
+          "TimeZone": null,
+          "Latitud": "51.509980",
+          "PostalCode": "WIJ",
+          "Longitud": "-0.1373700",
+          "Country": "Colombia",
+          "Continente": "SA",
+          "ISP": null,
+          "City": "Bogota"
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "fpt1234567",
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": "fpt1234567"
+        },
+        "Summary": {
+          "kernel": "17D47\u0000",
+          "Language": "en",
+          "Geolocation": "true",
+          "Appversion": "1.0",
+          "DeviceOsVersion": "11.2",
+          "fingerprint": "false",
+          "DeviceBrand": "Apple Inc.",
+          "DeviceOS": "iOS",
+          "AppName": "FPDios_Test_ObjC",
+          "DeviceModel": "nil"
+        },
+        "Geolocation": {
+          "Region": "CLCircularRegion (identifier: '<+51.50997999, -0.13370000> radius 141.61', center:<+51.50997999, -0.13370000>, radius: 141.61m)",
+          "TimeZone": null,
+          "Latitud": "51.509980",
+          "PostalCode": "WIJ",
+          "Longitud": "-0.1373700",
+          "Country": "Colombia",
+          "Continente": "SA",
+          "ISP": null,
+          "City": "Bogota"
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": -1,
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": -1
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": -1,
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": -1
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": -1,
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": -1
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": -1,
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": -1
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": -1,
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": -1
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": -1,
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": -1
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "ftp12345",
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": "ftp12345"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "ftp12345",
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": "ftp12345"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "123",
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": "123"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "123",
+      "celular": 3184675742,
+      "fingerprint": {
+        "FPD": {
+          "ID": "123"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "123",
+      "celular": 3184675742,
+      "fingerprint": {
+        "FPD": {
+          "ID": "123"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "123",
+      "celular": 3184675742,
+      "fingerprint": {
+        "FPD": {
+          "ID": "123"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "fpt1234567",
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": "fpt1234567"
+        },
+        "Summary": {
+          "kernel": "17D47\u0000",
+          "Language": "en",
+          "Geolocation": "true",
+          "Appversion": "1.0",
+          "DeviceOsVersion": "11.2",
+          "fingerprint": "false",
+          "DeviceBrand": "Apple Inc.",
+          "DeviceOS": "iOS",
+          "AppName": "FPDios_Test_ObjC",
+          "DeviceModel": "nil"
+        },
+        "Geolocation": {
+          "Region": "CLCircularRegion (identifier: '<+51.50997999, -0.13370000> radius 141.61', center:<+51.50997999, -0.13370000>, radius: 141.61m)",
+          "TimeZone": null,
+          "Latitud": "51.509980",
+          "PostalCode": "WIJ",
+          "Longitud": "-0.1373700",
+          "Country": "Colombia",
+          "Continente": "SA",
+          "ISP": null,
+          "City": "Bogota"
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "123",
+      "celular": 3184675742,
+      "fingerprint": {
+        "FPD": {
+          "ID": "123"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "123",
+      "celular": 3184675742,
+      "fingerprint": {
+        "FPD": {
+          "ID": "123"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "123",
+      "celular": 3184675742,
+      "fingerprint": {
+        "FPD": {
+          "ID": "123"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "fpt7654321",
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": "fpt7654321"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "fpt7654321",
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": "fpt7654321"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    },
+    {
+      "hashId": "fpt7654321",
+      "celular": 3001234567,
+      "fingerprint": {
+        "FPD": {
+          "ID": "fpt7654321"
+        },
+        "Summary": {
+          "kernel": null,
+          "Language": null,
+          "Geolocation": null,
+          "Appversion": null,
+          "DeviceOsVersion": null,
+          "fingerprint": null,
+          "DeviceBrand": null,
+          "DeviceOS": null,
+          "AppName": null,
+          "DeviceModel": null
+        },
+        "Geolocation": {
+          "Region": null,
+          "TimeZone": null,
+          "Latitud": null,
+          "PostalCode": null,
+          "Longitud": null,
+          "Country": null,
+          "Continente": null,
+          "ISP": null,
+          "City": null
+        },
+        "Device": {
+          "IMEI": null,
+          "IP": null,
+          "Screen_Resolution": null,
+          "Client_Timestamp": null,
+          "OperativeSystem": null,
+          "AppAction": null,
+          "DeviceID": null
+        }
+      }
+    }
+  ]
+}

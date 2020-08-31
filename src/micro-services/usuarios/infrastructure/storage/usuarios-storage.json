@@ -1,0 +1,83 @@
+{
+  "transaccionesPendientes": {
+    "cantidadTotal": 2,
+    "data": [
+      {
+        "CUS": "2c5ea4c0-3870-11e9-8bad-9b1deb4d3b7d",
+        "fechaTransaccion": "2020-04-27T20:42:38.933Z",
+        "celularOrigen": "573181234567",
+        "nombreOrigen": "Abonoser",
+        "monto": "5000",
+        "mensaje": "Para que compres un helado ;)",
+        "tipoTransaccion": "abono",
+        "estadoTransaccion": "pendiente"
+      },
+      {
+        "CUS": "2c5ea4c0-2087-11e9-8bad-9b1deb4d3b7d",
+        "fechaTransaccion": "2020-05-01T10:42:38.933Z",
+        "celularOrigen": "573187654321",
+        "nombreOrigen": "Pagador cumplido",
+        "monto": "10000",
+        "mensaje": "Te queda un saldo de $10mil.",
+        "tipoTransaccion": "cobro",
+        "estadoTransaccion": "pendiente"
+      }
+    ]
+  },
+  "historialTransacciones": {
+    "cantidadTotal": 5,
+    "data": [
+      {
+        "CUS": "2c5ea4c0-3870-11e9-8bad-9b1deb4d3b7d",
+        "fechaTransaccion": "2020-04-27T20:42:38.933Z",
+        "celularDestino": "573181234567",
+        "nombreDestino": "Mujer Maravilla",
+        "monto": "20000",
+        "mensaje": "Para que compres un helado ;)",
+        "tipoTransaccion": "abono",
+        "estadoTransaccion": "aceptado",
+        "fechaRespuesta": "2020-04-27T21:10:38.655Z"
+      },
+      {
+        "CUS": "2c5ea4c0-8765-11e9-8bad-9b1deb4d3b7d",
+        "fechaTransaccion": "2020-04-27T20:42:38.933Z",
+        "celularOrigen": "573007352413",
+        "nombreDestino": "Batman",
+        "monto": "40000",
+        "mensaje": "Para que compres un helado ;)",
+        "tipoTransaccion": "abono",
+        "estadoTransaccion": "aceptado",
+        "fechaRespuesta": "2020-04-27T21:10:38.655Z"
+      },
+      {
+        "CUS": "2c5ea4c0-1234-11e9-8bad-9b1deb4d3b7d",
+        "fechaTransaccion": "2020-04-27T20:42:38.933Z",
+        "celularOrigen": "573201234567",
+        "nombreOrigen": "Abonoser",
+        "monto": "85000",
+        "mensaje": "Te queda un saldo",
+        "tipoTransaccion": "cobro",
+        "estadoTransaccion": "aceptado",
+        "fechaRespuesta": "2020-04-27T21:10:38.655Z"
+      },
+      {
+        "CUS": "2c5ea4c0-1234-11e9-8bad-9b1deb4d3b7d",
+        "fechaTransaccion": "2020-04-27T20:42:38.933Z",
+        "celularOrigen": "573201234567",
+        "nombreOrigen": "Abonoser",
+        "monto": "9000",
+        "mensaje": "Me debes el iva del producto",
+        "tipoTransaccion": "cobro",
+        "estadoTransaccion": "rechazado",
+        "fechaRespuesta": "2020-04-27T21:10:38.655Z"
+      }
+    ]
+  },
+  "contactosDeConfianza": {
+    "cantidadTotal": 2,
+    "data": [
+      573001234567,
+      573017654321
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "exceptions": [
+    {
+      "id": 0,
+      "message": "No se encontró el objeto de la transaccion"
+    },
+    {
+      "id": 1,
+      "message": "No se encontró el objeto de la transaccion"
+    },
+    {
+      "id": 2,
+      "message": "fingerprintHashId is not defined"
+    },
+    {
+      "id": 3,
+      "message": "El fingerprintId es obligatorio"
+    },
+    {
+      "id": 4,
+      "message": "fingerprintHashId is not defined"
+    },
+    {
+      "id": 5,
+      "message": "InvalidFormatException is not defined"
+    },
+    {
+      "id": 6,
+      "message": "id is not defined"
+    }
+  ]
+}
